@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frminvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frminvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frminvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frminvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmstocksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmstocksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmstocksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmstocksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmwarehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmwarehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmwarehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmwarehouses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmstocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmstocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmstocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmstocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_stoktakipprogram\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68081B7-0282-4C29-A4FF-15D0DB74DD1B}|202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131.csproj|solutionrelative:202507125013_stoktakipprogram\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmStocks.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:20:50.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmStockSearch.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:40.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmStockSearch.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStockSearch.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:40.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmReports.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmReports.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmReports.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmReports.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:40.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmInvoices.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:40.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInvoices.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmInvoices.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmInvoices.cs [Tasar\u0131m]",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmInvoices.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmStocks.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvywAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmStocks.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmStocks.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmStocks.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:18:41.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmItems.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAnwIwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:20:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmWareHouses.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmWareHouses.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmWareHouses.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmItems.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwJ8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmItems.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmItems.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmItems.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmUsers.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmUsers.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmUsers.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmUsers.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\Form1.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:18:41.151Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\Form1.Designer.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Form1.Designer.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:18:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\Program.cs",
+              "ToolTip": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\Program.cs",
+              "RelativeToolTip": "202507125013_StokTakipProgram\u0131\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:18:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "RelativeDocumentMoniker": "202507125013_StokTakipProgram\u0131\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\202507125013_StokTakipProgram\u0131_AbdullahErenTutkun\\202507125013_StokTakipProgram\u0131\\202507125013_StokTakipProgram\u0131\\FrmMain.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-05-17T23:18:41.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
